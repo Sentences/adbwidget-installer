@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/tvLogDisplay"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:editable="false"
+        android:gravity="top"
+        android:scrollbars="vertical"
+        android:text="@string/debug_window" />
+
+    <Button
+        android:id="@+id/btnInstall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/install_adb_widget" />
+
+    <Button
+        android:id="@+id/btnUninstall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uninstall_adb_widget" />
+
+</LinearLayout>

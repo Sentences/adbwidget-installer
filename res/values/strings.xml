@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Widget Installer</string>
+	<string name="debug_window">Debug Window</string>
+	<string name="install_adb_widget">Install ADB Widget</string>
+	<string name="uninstall_adb_widget">Uninstall ADB Widget</string>
+	<string name="su_granted">SU Access granted</string>
+	<string name="su_denied">SU Access denied</string>
+	<string name="su_denied_message">SU is needed to install the Widget.\nYou need to root your device!</string>
+	<string name="busybox_found">Busybox found</string>
+	<string name="busybox_not_found">Busybox not found</string>
+	<string name="install_success">Install successful!</string>
+	<string name="install_failed">Install failed!\nSomething went wrong!</string>
+	<string name="uninstall_failed">Uninstall failed!\nSomething went wrong!</string>
+	<string name="uninstall_success">Uninstall successful!</string>
+	<string name="success_dialog">Install successful!\nYou need to reboot to take effect.\nI can try to restart, that works not on all devices!\nShould i?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="reboot_after_install_needed">You need to reboot your Device for the widget to take effect.</string>
+	<string name="reboot_after_uninstall_needed">Maybe you need to reboot your Device for the widget to be removed.</string>
+</resources>
