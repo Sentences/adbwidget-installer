@@ -13,6 +13,7 @@
 	<string name="install_failed">Install failed!\nSomething went wrong!</string>
 	<string name="uninstall_failed">Uninstall failed!\nSomething went wrong!</string>
 	<string name="uninstall_success">Uninstall successful!</string>
+	<string name="download_failed">Download from %1$s failed;</string>
 	<string name="success_dialog">Install successful!\nYou need to reboot to take effect.\nI can try to restart, that works not on all devices!\nShould i?</string>
 	<string name="yes">Yes</string>
 	<string name="no">No</string>
